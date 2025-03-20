@@ -79,7 +79,7 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../img/download.jpg);
+  background-image: url(./img/download.jpg);
   background-size: cover;
   width: 500px;
   padding: 30px;
@@ -214,7 +214,7 @@ footer {
     width: 350px;
     display: block;
     margin-right: 400px;
-    background-image: url(../img/download.jpg);
+    background-image: url(./img/download.jpg);
   background-size: cover;
   }
 
@@ -261,7 +261,7 @@ footer {
     width: 350px;
     display: block;
     margin-left: 100px;
-    background-image: url(../img/download.jpg);
+    background-image: url(./img/download.jpg);
   background-size: cover;
   }
 
@@ -315,7 +315,7 @@ footer {
     width: 350px;
     display: block;
     margin-right: 200px;
-    background-image: url(../img/download.jpg);
+    background-image: url(./img/download.jpg);
   background-size: cover;
   }
 
@@ -372,7 +372,7 @@ footer {
     width: 350px;
     display: block;
     margin-right: 400px;
-    background-image: url(../img/download.jpg);
+    background-image: url(./img/download.jpg);
   background-size: cover;
   }
 
@@ -480,7 +480,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../img/download.jpg);
+    background-image: url(./img/download.jpg);
     background-size: cover;
     width: 500px;
     padding: 30px;
@@ -673,7 +673,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../img/download.jpg);
+    background-image: url(./img/download.jpg);
     background-size: cover;
     width: 500px;
     padding: 30px;
@@ -870,7 +870,7 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../img/download.jpg);
+  background-image: url(./img/download.jpg);
   background-size: cover;
   width: 500px;
   padding: 30px;
