@@ -214,6 +214,8 @@ footer {
     width: 350px;
     display: block;
     margin-right: 400px;
+    background-image: url(../img/download.jpg);
+  background-size: cover;
   }
 
   .shorten-inp {
@@ -259,6 +261,8 @@ footer {
     width: 350px;
     display: block;
     margin-left: 100px;
+    background-image: url(../img/download.jpg);
+  background-size: cover;
   }
 
   .shorten-inp {
@@ -311,6 +315,8 @@ footer {
     width: 350px;
     display: block;
     margin-right: 200px;
+    background-image: url(../img/download.jpg);
+  background-size: cover;
   }
 
   .shorten-inp {
@@ -371,6 +377,8 @@ footer {
     width: 350px;
     display: block;
     margin-right: 400px;
+    background-image: url(../img/download.jpg);
+  background-size: cover;
   }
 
   .shorten-inp {
