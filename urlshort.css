@@ -358,12 +358,7 @@ footer {
   #l {
     display: flex;
   }
-  #l,
-  #lf1,
-  #lf2 {
-    display: none;
-  }
-
+  
   .title {
     font-size: 2rem;
   }
@@ -416,12 +411,7 @@ footer {
     font-family: Poppins;
     color: #213457;
   }
-  #l,
-  #lf1,
-  #lf2 {
-    display: none;
-  }
-
+  
   header {
     margin: 50px;
   }
