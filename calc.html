@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./calc.css" />
+  </head>
+  <body>
+    <main>
+      <div class="d">
+        <div id="display"></div>
+      </div>
+      <div class="c">
+        <div class="container">
+          <div onclick="add('7')">7</div>
+          <div onclick="add('8')">8</div>
+          <div onclick="add('9')">9</div>
+          <div onclick="clearDisplay()">DEL</div>
+          <div onclick="add('4')">4</div>
+          <div onclick="add('5')">5</div>
+          <div onclick="add('6')">6</div>
+          <div onclick="add('+')">+</div>
+          <div onclick="add('1')">1</div>
+          <div onclick="add('2')">2</div>
+          <div onclick="add('3')">3</div>
+          <div onclick="add('-')">-</div>
+          <div onclick="add('.')">.</div>
+          <div onclick="add('0')">0</div>
+          <div onclick="add('/')">/</div>
+          <div onclick="add('*')">*</div>
+          <div id="b" onclick="clearDisplay()">RESET</div>
+          <div onclick="solve()" id="r">=</div>
+        </div>
+      </div>
+    </main>
+    <script src="./calc.js"></script>
+  </body>
+</html>
