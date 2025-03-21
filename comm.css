@@ -458,7 +458,7 @@ li:hover {
   }
 
   img {
-    display: none;
+    display: flex;
   }
 
   .title {
